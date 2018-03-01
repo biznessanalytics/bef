@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Want to bring in data culture: How to bridge gap between strategy and implementation?"
-img:  segmentation.jpg # Add image post (optional)
+img:  1.jpg # Add image post (optional)
 date: 2017-03-08 12:55:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [Analytics, Data, Merging, Plan]
