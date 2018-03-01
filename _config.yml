@@ -22,12 +22,13 @@ phone: +971 (50) 553 3140  # your pnone number
 website: https://biznesaanalytics.com # you website
 
 # Social link
-google_url:    # add url link
-twitter_url:   # add url link
+google_url:    http://www.biznessanalytics.com/ # add url link
+twitter_url:   https://twitter.com/BiznessAnalytix # add url link
 instagram_url: # add url link
 pinterest_url: # add url link
 dribbble_url:  # add url link
-facebook_url:  # add url link
+facebook_url:  https://www.facebook.com/bizness.analytics # add url link
+linkedin_url: https://www.linkedin.com/company/biznessanalytics/ # add url link 
 
 # Disqus
 discus_identifier: mr-brown # add your discus identifier
