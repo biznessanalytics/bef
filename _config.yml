@@ -11,7 +11,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
 banner-title: Welcome to era of Analytics
-banner-desc: # add banner description
+banner-desc: "Without data you're just another person with opinion." W. Edwards Deming # add banner description
 
 # Author settings
 author-pic: face.jpg # your photo
