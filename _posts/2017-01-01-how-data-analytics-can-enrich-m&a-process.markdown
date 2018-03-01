@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How Data Analytics Can Enrich M&A Process"
-img: himalayan.jpg # Add image post (optional)
+img: 2.jpg # Add image post (optional)
 date: 2017-01-01 12:55:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [Analytics, Data, Merging, Acquisition]
