@@ -1,4 +1,4 @@
-logo: Logo_Square# add logo name
+logo: Logo_Square # add logo name
 title: Bizness Analytics Blog
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -10,7 +10,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
-banner-title: Welcome to era of Analytics# add banner title
+banner-title: Welcome to era of Analytics
 banner-desc: # add banner description
 
 # Author settings
