@@ -17,9 +17,9 @@ tags: ''
 
 Every company, regardless of size, requires multiple tools to understand the performance of its website, happiness of its customers and gain key context from competitors. 
 
-Management thinker Peter Drucker is often quoted as saying that 
+Management thinker Peter Drucker is often quoted as saying that: 
 
-_"If you can't measure it, you can't improve it."_
+                         _"If you can't measure it, you can't improve it."_
 
 Drucker means that you can't know, you are successful unless success is defined and tracked. With a clearly established metric for success, you can quantify progress and adjust your process to produce the desired outcome. Without clear objectives, you are stuck in a constant state of guessing.
 
