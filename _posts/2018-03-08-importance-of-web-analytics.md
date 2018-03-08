@@ -1,10 +1,20 @@
 ---
 layout: post
-title: "Importance of Web Analytics : Reasons to use it"
-img: 7.jpg # Add image post (optional)
-date: 2018-03-08 12:55:00 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-tag: [Analytics, Data, Web, Conversions, Behaviour, Audience, Goal]
+title: 'Importance of Web Analytics : Reasons to use it'
+img: 7.jpg
+date: '2018-03-08 12:55:00 +0300'
+description: >-
+  You’ll find this post in your `_posts` directory. Go ahead and edit it and
+  re-build the site to see your changes.
+tag:
+  - Analytics
+  - Data
+  - Web
+  - Conversions
+  - Behaviour
+  - Audience
+  - Goal
+published: true
 ---
 
 In today’s connected world everyone is obsessed with technology. For many consumers, the e-commerce has become a way of life. Because of our growing dependence on the online world, businesses everywhere are ensuring that they have active, engaging and user-friendly websites.
@@ -14,12 +24,16 @@ Let’s understand the components of Website Analytics, which broadly categorize
 2.	Audience
 3.	Behavior
 4.	Conversions
-## Acquisition
-Acquisition refers to how the website traffic is generated. This provides the most important data like the number of sessions acquired, the bounce rate of those acquired visitors, and their conversions for most effective channels. 
-Acquisition report is a great to look at which avenues are best for bringing traffic to your site and getting certain actions to happen. For example, if you want to know :
+
+### Acquisition
+Acquisition refers to how the website traffic is generated. This provides the most important data like the number of sessions acquired, the bounce rate of those acquired visitors, and their conversions for most effective channels.Acquisition report is a great to look at which avenues are best for bringing traffic to your site and getting certain actions to happen. For example, if you want to know :
+
 - What are the top channels that brings traffic to your website? Examples: Direct, Organic, Referral, Social
-- Which search engine is driving the most organic traffic? Examples: Google, Bing, Yahoo, Ask.com, Others
+
+- Which search engine is driving the most organic traffic? Examples: Google, Bing, Yahoo, Ask, Others
+
 - What is the total number of Sessions, Users, Pageviews, Pages/Sessions, New User and Avg. Time Durations?
+
 - Which referral sources are responsible for driving the most traffic? Examples: Facebook, Instagram, Pinterest, Reddit, Twitter 
 - What are the organic keywords that users search in Search engines which generates organic traffic?
 - Which campaigns are performing in terms of acquiring customers?
@@ -65,6 +79,3 @@ The Conversions section of Web Analytics is all about understanding how people c
 - What is the number of interactions visitor takes before their convert?
 
 Today, it’s easier than ever to analyze your website and its audience and get a better idea of who’s interacting with your brand and why. With the right insights, you can modify your approach, anticipate your customer needs, and create a superior user experience. This information can be used to create more targeted campaigns and advertisement to promote the business and can customize the website according to the customers’ likes and dislikes.
-
-
-
