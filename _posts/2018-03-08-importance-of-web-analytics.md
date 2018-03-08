@@ -20,10 +20,10 @@ published: true
 In today’s connected world everyone is obsessed with technology. For many consumers, the e-commerce has become a way of life. Because of our growing dependence on the online world, businesses everywhere are ensuring that they have active, engaging and user-friendly websites.
 
 Let’s understand the components of Website Analytics, which broadly categorizes data into the ABCs:
-1.Acquisition
-2.Audience
-3.Behavior
-4.Conversions
+1. Acquisition
+2. Audience
+3. Behavior
+4. Conversions
 
 ### Acquisition
 
