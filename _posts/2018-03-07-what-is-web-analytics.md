@@ -31,7 +31,7 @@ Web analytics is often used as part of customer relationship management analytic
 
 To ensure that the website is achieving the results you expect, you really need have Web Analytics in place. Analytics enables you to determine the weaknesses and strengths of your website, and to set goals to track and maximize progress and success. If you have a website, then most important questions are: 
 
--Does your website fulfil your goal for which it was made, are people visiting your website or not? 
+- Does your website fulfil your goal for which it was made, are people visiting your website or not? 
 
 - Are you monitoring your website traffic, page views, sessions and goals to ensure your site becomes a driving force of revenue?
 
