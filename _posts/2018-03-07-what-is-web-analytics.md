@@ -15,8 +15,6 @@ published: true
 tags: ''
 ---
 
-## What is Web Analytics and Why to use it ?
-
 Every company, regardless of size, requires multiple tools to understand the performance of its website, happiness of its customers and gain key context from competitors. 
 
 Management thinker Peter Drucker is often quoted as saying that 
